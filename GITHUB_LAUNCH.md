@@ -8,7 +8,7 @@ Published September 22, 2026.
 | Project showcase | [GitHub Pages](https://inayat1472.github.io/relay-multiplayer/) |
 | Play the multiplayer game | [Relay](https://relay-together.inayat121786.chatgpt.site) |
 
-The repository is pinned to Inayat1472's profile. It includes source code, locked dependencies, SQL schema, regression tests, artwork, a README, and the static showcase. GitHub Pages publishes `docs/` from `main`. Shared multiplayer rooms run on the existing live game host.
+The repository includes source code, locked dependencies, SQL schema, regression tests, artwork, a README, and the static showcase. GitHub Pages publishes `docs/` from `main`. Shared multiplayer rooms run on the existing live game host.
 
 ## Project details
 
