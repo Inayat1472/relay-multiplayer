@@ -6,7 +6,7 @@
 
 A cooperative puzzle for **two players on separate devices**. Rotate your tiles, guide your teammate, and bring a shared signal network to life. Built by **Inayat Abbas Malla** with ChatGPT Work for the Handshake AI Skills Studio Multiplayer Game Challenge.
 
-**[Play Relay →](https://relay-together.inayat121786.chatgpt.site)** · [How to play](#how-to-play) · [Run locally](#run-locally) · [Deployment](DEPLOYMENT.md)
+**[Play Relay →](https://relay-together.inayat121786.chatgpt.site)** · [Project showcase](https://inayat1472.github.io/relay-multiplayer/) · [How to play](#how-to-play) · [Run locally](#run-locally) · [Deployment](DEPLOYMENT.md)
 
 | Players | Challenge | Getting started |
 | --- | --- | --- |
