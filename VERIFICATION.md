@@ -16,7 +16,7 @@ The build used the existing installed dependency tree matching the source lockfi
 
 The original game was tested with two independently authenticated browser sessions, all three sectors, rematches, hints, pings, quick signals, reload recovery, solo practice, keyboard navigation, and a narrow viewport. Physical phones, every browser engine, and load capacity were not tested.
 
-The public repository was created and GitHub Pages deployed successfully on September 22, 2026. The live showcase was visually reviewed at a 1348-pixel browser viewport: all three images loaded, the page had no horizontal overflow, the rules anchor worked, and the Play links pointed to the existing multiplayer host. The repository was pinned to the creator's profile.
+The public repository was created and GitHub Pages deployed successfully on September 22, 2026. The live showcase was visually reviewed at a 1348-pixel browser viewport: all three images loaded, the page had no horizontal overflow, the rules anchor worked, and the Play links pointed to the existing multiplayer host.
 
 - Repository: https://github.com/Inayat1472/relay-multiplayer
 - Showcase: https://inayat1472.github.io/relay-multiplayer/
